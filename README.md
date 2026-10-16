@@ -68,19 +68,9 @@ Type a number from `1` to `5` and press Enter.
 
 ---
 
-## 🖥️ Example Output
+## 🖥️  Output
+![Program Output](output.png)
 
-```text
-1. Add Entry
-2. View Entries
-3. Search Entry
-4. Delete All
-5. Exit
-Your choice: 1
-Write your entry: Hi there I am Kunal Vaghela
-Entry added Successfully!
-2026-10-16 13:22:33
-```
 
 ---
 
@@ -91,6 +81,8 @@ File/
 ├── main.py         
 ├── output.png    
 └── README.md      
+
+
 
 ---
 
