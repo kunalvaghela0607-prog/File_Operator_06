@@ -76,7 +76,6 @@ Type a number from `1` to `5` and press Enter.
 
 ## 📁 Project Structure
 
-```text
 File/
 ├── main.py         
 ├── output.png    
